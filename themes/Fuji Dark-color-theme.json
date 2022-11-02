@@ -17,7 +17,8 @@
 		"sideBar.dropBackground": "#2A3D50",
 		"activityBar.background": "#31475E",
 		"editorGroupHeader.tabsBackground": "#151E28",
-		"editor.lineHighlightBackground":"#F18F0140"
+		"editor.lineHighlightBackground":"#F18F0140",
+		"tab.inactiveBackground": "#1C2835"
 	},
 	"tokenColors": [
 		{

@@ -4,6 +4,10 @@
   "description": "Custom VS Code theme",
   "version": "0.0.1",
   "publisher": "WilliamSutton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tsutton908/VSCodeTheme_Fuji"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -18,5 +22,15 @@
         "path": "./themes/Fuji Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue theme",
+    "WilliamSutton",
+    "William Sutton",
+    "fuji",
+    "fuji dark",
+    "fuji dark theme"
+  ]
 }
