@@ -1,0 +1,22 @@
+{
+  "name": "fuji-dark",
+  "displayName": "Fuji Dark",
+  "description": "Custom VS Code theme",
+  "version": "0.0.1",
+  "publisher": "WilliamSutton",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fuji Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fuji Dark-color-theme.json"
+      }
+    ]
+  }
+}
